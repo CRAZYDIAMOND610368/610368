@@ -1,0 +1,7 @@
+先理解hex是16進位的編碼
+然後上網找hex decode
+解碼完顯示出來的是b64: aW50ZXJuZXRfY29udmVyc2lvbl90b29sc19yb2Nr
+發現到接下來要用base64解碼
+然後上網找base64 decode
+解碼後顯示出internet_conversion_tools_rock
+答案就出來嘞
