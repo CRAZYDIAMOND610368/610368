@@ -14,4 +14,4 @@ ksu@ksu-VirtualBox:~$ gcc -S -masm=intel 1122.c -o 1122 intel.s
 gcc: error: intel.s: No such file or directory
 ksu@ksu-VirtualBox:~$ gcc -S -masm=intel 1122.c -o 1122_intel.s
 ksu@ksu-VirtualBox:~$ gedit 1122_intel.s
-！[image](https://github.com/CRAZYDIAMOND610368/610368/blob/master/5.PNG)
+![image](https://github.com/CRAZYDIAMOND610368/610368/blob/master/5.PNG)
